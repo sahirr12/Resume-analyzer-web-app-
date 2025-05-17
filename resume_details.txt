@@ -1,0 +1,184 @@
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Unknown Category
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: Ai, C++, Java, Python, SQL, ai, machine learning
+Education: Bachelor, University, master, school
+Experience: No experience listed
+Prediction: Technical Support
+Accuracy: 19.72%
+
+Skills: ai
+Education: Master, University, university
+Experience: No experience listed
+Prediction: Blockchain Developer
+Accuracy: 8.35%
+
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai, ai, ai, ai, ai, ai, ai", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai, ai, ai, ai, ai, ai, ai", "Education": "", "Experience": ""}}
+{"prediction": "Technical Support", "accuracy": 14.85, "details": {"Skills": "ai, ai", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai, ai, ai, ai, ai, ai, ai", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Technical Support", "accuracy": 19.72, "details": {"Skills": "Python, Ai, machine learning, C++, Java, ai, SQL", "Education": "", "Experience": ""}}
+{"prediction": "Technical Support", "accuracy": 19.72, "details": {"Skills": "Java, Ai, SQL, Python, ai, C++, machine learning", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Technical Support", "accuracy": 14.85, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Other", "accuracy": 13.78, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Data Scientist", "accuracy": 9.82, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Data Scientist", "accuracy": 9.82, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Technical Support", "accuracy": 19.72, "details": {"Skills": "machine learning, SQL, Ai, Python, C++, ai, Java", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai", "Education": "", "Experience": ""}}
+{"prediction": "Blockchain Developer", "accuracy": 8.35, "details": {"Skills": "ai", "Education": "No education details listed", "Experience": "No experience listed"}}
+{"prediction": "Technical Support", "accuracy": 19.72, "details": {"Skills": "SQL, C++, Ai, Python, ai, machine learning, Java", "Education": "No education details listed", "Experience": "No experience listed"}}
